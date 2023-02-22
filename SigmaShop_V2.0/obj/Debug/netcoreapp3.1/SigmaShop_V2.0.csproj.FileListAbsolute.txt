@@ -1,0 +1,14 @@
+D:\Sigma\New folder\Sigma\Task12\SigmaShop_V2.0\SigmaShop_V2.0\bin\Debug\netcoreapp3.1\SigmaShop_V2.0.exe
+D:\Sigma\New folder\Sigma\Task12\SigmaShop_V2.0\SigmaShop_V2.0\bin\Debug\netcoreapp3.1\SigmaShop_V2.0.deps.json
+D:\Sigma\New folder\Sigma\Task12\SigmaShop_V2.0\SigmaShop_V2.0\bin\Debug\netcoreapp3.1\SigmaShop_V2.0.runtimeconfig.json
+D:\Sigma\New folder\Sigma\Task12\SigmaShop_V2.0\SigmaShop_V2.0\bin\Debug\netcoreapp3.1\SigmaShop_V2.0.runtimeconfig.dev.json
+D:\Sigma\New folder\Sigma\Task12\SigmaShop_V2.0\SigmaShop_V2.0\bin\Debug\netcoreapp3.1\SigmaShop_V2.0.dll
+D:\Sigma\New folder\Sigma\Task12\SigmaShop_V2.0\SigmaShop_V2.0\bin\Debug\netcoreapp3.1\SigmaShop_V2.0.pdb
+D:\Sigma\New folder\Sigma\Task12\SigmaShop_V2.0\SigmaShop_V2.0\obj\Debug\netcoreapp3.1\SigmaShop_V2.0.csproj.AssemblyReference.cache
+D:\Sigma\New folder\Sigma\Task12\SigmaShop_V2.0\SigmaShop_V2.0\obj\Debug\netcoreapp3.1\SigmaShop_V2.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sigma\New folder\Sigma\Task12\SigmaShop_V2.0\SigmaShop_V2.0\obj\Debug\netcoreapp3.1\SigmaShop_V2.0.AssemblyInfoInputs.cache
+D:\Sigma\New folder\Sigma\Task12\SigmaShop_V2.0\SigmaShop_V2.0\obj\Debug\netcoreapp3.1\SigmaShop_V2.0.AssemblyInfo.cs
+D:\Sigma\New folder\Sigma\Task12\SigmaShop_V2.0\SigmaShop_V2.0\obj\Debug\netcoreapp3.1\SigmaShop_V2.0.csproj.CoreCompileInputs.cache
+D:\Sigma\New folder\Sigma\Task12\SigmaShop_V2.0\SigmaShop_V2.0\obj\Debug\netcoreapp3.1\SigmaShop_V2.0.dll
+D:\Sigma\New folder\Sigma\Task12\SigmaShop_V2.0\SigmaShop_V2.0\obj\Debug\netcoreapp3.1\SigmaShop_V2.0.pdb
+D:\Sigma\New folder\Sigma\Task12\SigmaShop_V2.0\SigmaShop_V2.0\obj\Debug\netcoreapp3.1\SigmaShop_V2.0.genruntimeconfig.cache

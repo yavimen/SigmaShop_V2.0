@@ -1,0 +1,7 @@
+Product prod2 5 11 14.11.2021 42 52
+Product prod3 6 12 11.11.2021 16 122
+Product prod1 1 13 19.11.2021 14 40
+Product prod4 7 19 20.11.2021 14 60
+Household_Goods household1 2 21 14.11.2021 22 3
+Household_Goods household2 3 22 14.11.2021 11 1
+Household_Goods household3 4 50 19.11.2021 3 30
